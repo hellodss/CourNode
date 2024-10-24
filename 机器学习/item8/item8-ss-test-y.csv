@@ -1,0 +1,16 @@
+pclass,sex,age,embarked,name,ticket,room
+1st,male,39,Cherbourg,Blank,,A-31
+1st,female,30,Southampton,Miss Caroline,,C-7
+1st,female,58,Southampton,Miss Elizabeth,,C-103
+1st,female,45,Cherbourg,Bowen,,
+1st,female,22,Southampton,Bowerman,,
+2nd,male,34,Southampton,Mr William,,
+2nd,female,32,Southampton,Mrs William,,
+2nd,male,57,Southampton,Ashby,,
+2nd,male,18,Southampton,Bailey,,
+2nd,male,23,Southampton,Baimbrigge,,
+3rd,male,42,Southampton,Mr Anthony,,
+3rd,male,13,Southampton,Master Eugene,,
+3rd,male,16,Southampton,Mr Rossmore ,,
+3rd,female,35,Southampton,Mrs Stanton,,
+3rd,female,16,Southampton,Miss Anna ,,

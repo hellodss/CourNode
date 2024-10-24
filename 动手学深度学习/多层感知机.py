@@ -1,11 +1,10 @@
-# 初始化模型
 import tensorflow as tf
 from d2l import tensorflow as d2l
 import matplotlib.pyplot as plt
 
+# 加载数据集并进行标准化
 batch_size = 256
 train_iter, test_iter = d2l.load_data_fashion_mnist(batch_size)
-
 
 # 定义多层感知机的参数
 num_inputs, num_outputs, num_hiddens = 784, 10, 256
@@ -27,30 +26,22 @@ params = [W1, b1, W2, b2]
 def relu(X):
     return tf.math.maximum(X, 0)
 
-# 定义模型
-def net(X):
-    """构建多层感知机的前向传播网络，使用ReLU激活函数。
-    
-    参数:
-    X -- 输入数据，形状为(batch_size, num_inputs)
-    
-    返回:
-    网络的输出，形状为(batch_size, num_outputs)
-    """
+# 定义模型（增加 Dropout）
+def net(X, training=False):
     X = tf.reshape(X, (-1, num_inputs))
     H = relu(tf.matmul(X, W1) + b1)
+    if training:
+        H = tf.nn.dropout(H, rate=0.5)  # 训练时使用 Dropout
     return tf.matmul(H, W2) + b2
 
-# 定义损失函数
+# 定义损失函数（增加 L2 正则化）
 def loss(y_hat, y):
+    l2_penalty = 0.001 * (tf.nn.l2_loss(W1) + tf.nn.l2_loss(W2))
     return tf.losses.sparse_categorical_crossentropy(
-        y, y_hat, from_logits=True)
+        y, y_hat, from_logits=True) + l2_penalty
 
-
-# 设置训练的轮数和学习率
-num_epochs, lr = 10, 0.9
-# 创建更新器以更新模型参数
-updater = tf.keras.optimizers.SGD(learning_rate=lr)
+# 设置优化器（使用 Adam）
+updater = tf.keras.optimizers.Adam(learning_rate=0.001)
 
 # 自定义训练函数
 def train(net, train_iter, test_iter, loss, num_epochs, updater):
@@ -58,14 +49,10 @@ def train(net, train_iter, test_iter, loss, num_epochs, updater):
         metric = d2l.Accumulator(3)  # 训练损失总和，训练准确度总和，样本数
         for X, y in train_iter:
             with tf.GradientTape() as tape:
-                # 前向传播并计算损失
-                l = loss(net(X), y)
-            # 计算梯度并更新参数
+                l = loss(net(X, training=True), y)
             grads = tape.gradient(l, [W1, b1, W2, b2])
             updater.apply_gradients(zip(grads, [W1, b1, W2, b2]))
-            # 更新训练的总损失、准确率和样本数量
             metric.add(tf.reduce_sum(l), d2l.accuracy(net(X), y), y.shape[0])
-        # 打印每轮训练的结果
         train_loss, train_acc = metric[0] / metric[2], metric[1] / metric[2]
         print(f'epoch {epoch + 1}, loss {train_loss:.4f}, accuracy {train_acc:.3f}')
         
@@ -74,22 +61,19 @@ def train(net, train_iter, test_iter, loss, num_epochs, updater):
     print(f'test accuracy: {test_acc:.3f}')
 
 # 设置训练的轮数
-num_epochs = 10
+num_epochs = 20
 
 # 使用自定义的训练函数进行训练
 train(net, train_iter, test_iter, loss, num_epochs, updater)
 
 # 自定义预测函数
 def predict(net, test_iter, n=6):
-    # 从测试集中获取 n 个样本
     for X, y in test_iter:
         break
     trues = d2l.get_fashion_mnist_labels(y.numpy())
     preds = d2l.get_fashion_mnist_labels(tf.argmax(net(X), axis=1).numpy())
-    # 显示真实标签和预测标签
     titles = [f'True: {true}\nPred: {pred}' for true, pred in zip(trues, preds)]
     d2l.show_images(tf.reshape(X[0:n], (n, 28, 28)), 1, n, titles=titles[0:n])
-
     plt.show()
 
 # 在测试数据上进行预测

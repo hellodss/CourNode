@@ -1,0 +1,840 @@
+pclass,name,sex,age,embarked,ticket,room,survived
+1st,"Allen, Miss Elisabeth Walton",female,29,Southampton,24160 L221,B-5,1
+1st,"Allison, Miss Helen Loraine",female,2,Southampton,,C26,0
+1st,"Allison, Mr Hudson Joshua Creighton",male,30,Southampton,,C26,0
+1st,"Allison, Mrs Hudson J.C. (Bessie Waldo Daniels)",female,25,Southampton,,C26,0
+1st,"Allison, Master Hudson Trevor",male,0.9167,Southampton,,C22,1
+1st,"Anderson, Mr Harry",male,47,Southampton,,E-12,1
+1st,"Andrews, Miss Kornelia Theodosia",female,63,Southampton,13502 L77,D-7,1
+1st,"Andrews, Mr Thomas, jr",male,39,Southampton,,A-36,0
+1st,"Appleton, Mrs Edward Dale (Charlotte Lamson)",female,58,Southampton,,C-101,1
+1st,"Artagaveytia, Mr Ramon",male,71,Cherbourg,,,0
+1st,"Astor, Colonel John Jacob",male,47,Cherbourg,17754 L224 10s 6d,,0
+1st,"Astor, Mrs John Jacob (Madeleine Talmadge Force)",female,19,Cherbourg,17754 L224 10s 6d,,1
+1st,"Aubert, Mrs Leontine Pauline",female,NA,Cherbourg,17477 L69 6s,B-35,1
+1st,"Barkworth, Mr Algernon H.",male,NA,Southampton,,A-23,1
+1st,"Baumann, Mr John D.",male,NA,Southampton,,,0
+1st,"Baxter, Mrs James (Helene DeLaudeniere Chaput)",female,50,Cherbourg,,B-58/60,1
+1st,"Baxter, Mr Quigg Edmond",male,24,Cherbourg,,B-58/60,0
+1st,"Beattie, Mr Thomson",male,36,Cherbourg,,C-6,0
+1st,"Beckwith, Mr Richard Leonard",male,37,Southampton,,D-35,1
+1st,"Beckwith, Mrs Richard Leonard (Sallie Monypeny)",female,47,Southampton,,D-35,1
+1st,"Behr, Mr Karl Howell",male,26,Cherbourg,,C-148,1
+1st,"Birnbaum, Mr Jakob",male,25,Cherbourg,,,0
+1st,"Bishop, Mr Dickinson H.",male,25,Cherbourg,,B-49,1
+1st,"Bishop, Mrs Dickinson H. (Helen Walton)",female,19,Cherbourg,,B-49,1
+1st,"Bjornstrm-Steffansson, Mr Mauritz Hakan",male,28,Southampton, ,,1
+1st,"Blackwell, Mr Stephen Weart",male,45,Southampton,,,0
+1st,"Blank, Mr Henry",male,39,Cherbourg,,A-31,1
+1st,"Bonnell, Miss Caroline",female,30,Southampton,,C-7,1
+1st,"Bonnell, Miss Elizabeth",female,58,Southampton,,C-103,1
+1st,"Borebank, Mr John James",male,NA,Southampton,,D-21/2,0
+1st,"Bowen, Miss Grace Scott",female,45,Cherbourg,,,1
+1st,"Bowerman, Miss Elsie Edith",female,22,Southampton,,,1
+1st,"Bradley, Mr George",male,NA,Southampton,,,1
+1st,"Brady, Mr John Bertram",male,41,Southampton,,,0
+1st,"Brandeis, Mr Emil",male,48,Cherbourg,17591 L50 9s 11d,,0
+1st,"Brewe, Dr Arthur Jackson",male,NA,Cherbourg,,,0
+1st,"Brown, Mrs James Joseph (Margaret Molly"" Tobin)""",female,44,Cherbourg,17610 L27 15s 5d,,1
+1st,"Brown, Mrs John Murray (Caroline Lane Lamson)",female,59,Southampton,,C-101,1
+1st,"Bucknell, Mrs William Robert (Emma Eliza Ward)",female,60,Cherbourg,,,1
+1st,"Butt, Major Archibald Willingham",male,45,Southampton,,,0
+1st,"Calderhead, Mr Edward P.",male,NA,Southampton,,,1
+1st,"Candee, Mrs Edward (Helen Churchill Hungerford)",female,53,Cherbourg,,,1
+1st,"Cardeza, Mrs James Warburton Martinez (Charlotte Wardle Drake)",female,58,Cherbourg,17755 L512 6s,B-51/3/5,1
+1st,"Cardeza, Mr Thomas Drake Martinez",male,36,Cherbourg,17755 L512 6s,B-51/3/5,1
+1st,"Carlsson, Mr Frans Olof",male,33,Southampton,,,0
+1st,"Carrau, Mr Francisco M.",male,NA,Southampton,,,0
+1st,"Carrau, Mr Jose Pedro",male,NA,Southampton,,,0
+1st,"Carter, Mr William Ernest",male,36,Southampton,,,1
+1st,"Carter, Mrs William Ernest (Lucile Polk)",female,36,Southampton,,,1
+1st,"Carter, Miss Lucile Polk",female,14,Southampton,,,1
+1st,"Carter, Master William T. II",male,11,Southampton,,,1
+1st,"Case, Mr Howard Brown",male,49,Southampton,,,0
+1st,"Cassebeer, Mrs Henry Arthur jr (Genevieve Fosdick)",female,NA,Cherbourg,,,1
+1st,"Cavendish, Mr Tyrell William",male,36,Southampton,,,0
+1st,"Cavendish, Mrs Tyrell William Julia Florence Siegel",female,NA,Southampton,,,1
+1st,"Chaffee, Mr Herbert Fuller",male,46,Southampton,,,0
+1st,"Chaffee, Mrs Herbert Fuller (Carrie Constance Toogood)",female,47,Southampton,,,1
+1st,"Chambers, Mr Norman Campbell",male,27,Southampton,,,1
+1st,"Chambers, Mrs Norman Campbell (Bertha Griggs)",female,31,Southampton,,,1
+1st,"Cherry, Miss Gladys",female,NA,Southampton,,,1
+1st,"Chevre, Mr Paul",male,NA,Cherbourg,,,1
+1st,"Chibnall (Bowerman), Mrs Edith Martha",female,NA,Southampton,,,1
+1st,"Chisholm, Mr Roderick Robert",male,NA,,,,0
+1st,"Clark, Mr Walter Miller",male,27,Cherbourg,,C-87,0
+1st,"Clark, Mrs Walter Miller (Virginia McDowell)",female,26,Cherbourg,,C-87,1
+1st,"Clifford, Mr George Quincy",male,NA,Southampton,,,0
+1st,"Colley, Mr Edward Pomeroy",male,NA,Southampton,,,0
+1st,"Compton, Mrs Alexander Taylor (Mary Eliza Ingersoll)",female,64,Cherbourg,,,1
+1st,"Compton, Mr Alexander Taylor, Jr",male,37,Cherbourg,,,0
+1st,"Compton, Miss Sara Rebecca",female,39,Cherbourg,,,1
+1st,"Cornell, Mrs Robert Clifford (Malvina Helen Lamson)",female,55,Southampton,,C-101,1
+1st,"Crafton, Mr John Bertram",male,NA,Southampton,,,0
+1st,"Crosby, Captain Edward Gifford",male,70,Southampton,,,0
+1st,"Crosby, Mrs Edward Gifford (Catherine Elizabeth Halstead)",female,69,Southampton,,,1
+1st,"Crosby, Miss Harriet R.",female,36,Southampton,,,1
+1st,"Cumings, Mr John Bradley",male,39,Cherbourg,,C-85,0
+1st,"Cumings, Mrs John Bradley (Florence Briggs Thayer)",female,38,Cherbourg,,C-85,1
+1st,"Daly, Mr Peter Denis ",male,NA,Southampton,,,1
+1st,"Daniel, Mr Robert Williams",male,27,Southampton,,,1
+1st,"Davidson, Mr Thornton",male,31,Southampton,,,0
+1st,"Davidson, Mrs Thornton (Orian Hays)",female,27,Southampton,,,1
+1st,"de Villiers, Madame Berthe",female,NA,Cherbourg,,,1
+1st,"Dick, Mr Albert Adrian",male,31,Cherbourg,,,1
+1st,"Dick, Mrs Albert Adrian Vera Gillespie",female,17,Cherbourg,,,1
+1st,"Dodge, Dr. Washington",male,NA,Southampton,,,1
+1st,"Dodge, Mrs Washington (Ruth Vidaver)",female,NA,Southampton,,,1
+1st,"Dodge, Master Washington",male,4,Southampton,,,1
+1st,"Douglas, Mrs Frederick Charles (Suzette Baxter)",female,27,Cherbourg,,,1
+1st,"Douglas, Mr Walter Donald",male,50,Cherbourg,,,0
+1st,"Douglas, Mrs Walter Donald (Mahala Dutton)",female,48,Cherbourg,,,1
+1st,"Duff Gordon, Sir Cosmo Edmund",male,49,Cherbourg,11755 L39 12s,,1
+1st,"Duff Gordon, Lady (Lucille Wallace Sutherland)",female,48,Cherbourg,17485 L56 18s 7d,,1
+1st,"Dulles, Mr William Crothers",male,39,Cherbourg,,,0
+1st,"Earnshaw, Mrs Boulton (Olive Potter)",female,23,Cherbourg,,,1
+1st,"Eustis, Miss Elizabeth Mussey",female,53,Cherbourg,,,1
+1st,"Evans, Miss Edith Corse",female,36,Cherbourg,,,0
+1st,"Flegenheim, Mrs Alfred (Antoinette)",female,NA,Cherbourg,,,1
+1st,"Flynn, Mr John Irving",male,NA,Southampton,,,1
+1st,"Foreman, Mr Benjamin Laventall",male,30,Cherbourg,,,0
+1st,"Fortune, Miss Alice Elizabeth",female,24,Southampton,,,1
+1st,"Fortune, Mr Charles Alexander",male,19,Southampton,,,0
+1st,"Fortune, Miss Ethel Flora",female,28,Southampton,,,1
+1st,"Fortune, Miss Mabel",female,23,Southampton,,,1
+1st,"Fortune, Mr Mark",male,64,Southampton,,,0
+1st,"Fortune, Mrs Mark (Mary McDougald)",female,60,Southampton,,,1
+1st,"Franklin, Mr Thomas Parham",male,NA,Southampton,,,0
+1st,"Frauenthal, Dr Henry William",male,49,Cherbourg,,,1
+1st,"Frauenthal, Mrs Henry William (Clara Heinsheimer)",female,NA,Cherbourg,,,1
+1st,"Frauenthal, Mr Isaac Gerald",male,44,Southampton,,,1
+1st,"Frolicher, Miss Marguerite",female,22,Cherbourg,,,1
+1st,"Frolicher-Stehli, Mr Maxmillian",male,60,Cherbourg,,,1
+1st,"Frolicher-Stehli, Mrs Maxmillian (Margaretha Emerentia Stehli)",female,48,Cherbourg,,,1
+1st,"Futrelle, Mr Jacques",male,37,Southampton,,,0
+1st,"Futrelle, Mrs Jacques (May Peel)",female,35,Southampton,,,1
+1st,"Gee, Mr Arthur H.",male,47,Southampton,,,0
+1st,"Gibson, Miss Dorothy",female,22,Cherbourg,,,1
+1st,"Gibson, Mrs Leonard (Pauline C. Boeson)",female,45,Cherbourg,,,1
+1st,"Goldenberg, Mr Samuel L.",male,49,Cherbourg,,,1
+1st,"Goldenberg, Mrs Samuel L. (Edwiga Grabowsko)",female,NA,Cherbourg,,,1
+1st,"Goldschmidt, Mr George B.",male,71,Cherbourg,,,0
+1st,"Gracie, Colonel Archibald IV",male,54,Southampton,113780 L28 10s,C-51,1
+1st,"Graham, Mr George Edward",male,38,Southampton,,,0
+1st,"Graham, Miss Margaret Edith",female,19,Southampton,17582 L153 9s 3d,C-125,1
+1st,"Graham, Mrs William Thompson (Edith Junkins)",female,58,Southampton,17582 L153 9s 3d,C-91,1
+1st,"Greenfield, Mrs Leo David (Blanche Strouse)",female,45,Cherbourg,,,1
+1st,"Greenfield, Mr William Bertram",male,23,Cherbourg,,,1
+1st,"Guggenheim, Mr Benjamin",male,46,Cherbourg,17593 L56 18s 7d,B-82/4,0
+1st,"Harder, Mr George Achilles",male,25,Cherbourg,,,1
+1st,"Harder, Mrs George Achilles (Dorothy Annan)",female,21,Cherbourg,,,1
+1st,"Harper, Mr Henry Sleeper",male,48,Cherbourg,,,1
+1st,"Harper, Mrs Henry Sleeper (Myna Haxtun)",female,49,Cherbourg,,,1
+1st,"Harris, Mr Henry Birkhardt",male,45,Southampton,36973 L83 9s 6d,C-83,0
+1st,"Harris, Mrs Henry Birkhardt (Irene Wallach)",female,36,Southampton,36973 L83 9s 6d,C-83,1
+1st,"Hawksford, Mr Walter James",male,NA,Southampton,,,1
+1st,"Hays, Mr Charles Melville",male,55,Southampton,,,0
+1st,"Hays, Mrs Charles Melville (Clara Jennings Gregg)",female,52,Southampton,,,1
+1st,"Hays, Miss Margaret Bechstein",female,24,Southampton,,,1
+1st,"Head, Mr Christopher",male,NA,Southampton,,,0
+1st,"Hilliard, Mr Herbert Henry",male,NA,Southampton,,,0
+1st,"Hipkins, Mr William Edward",male,NA,Southampton,,,0
+1st,"Hippach, Miss Jean Gertrude",female,16,Cherbourg,111361 L57 19s 7d,B-18,1
+1st,"Hippach, Mrs Louis Albert (Ida Sophia Fischer)",female,44,Cherbourg,111361 L57 19s 7d,B-18,1
+1st,"Hogeboom, Mrs John C. (Anna Andrews)",female,51,Southampton,13502 L77,D-?,1
+1st,"Holverson, Mr Alexander Oskar",male,42,Southampton,,,0
+1st,"Holverson, Mrs Alexander Oskar (Mary Aline Towner)",female,35,Southampton,,,1
+1st,"Homer, Mr Harry",male,35,Cherbourg,,,1
+1st,"Hoyt, Mr Frederick Maxfield",male,38,Southampton,,C-93,1
+1st,"Hoyt, Mrs Frederick Maxfield (Jane Anne Forby)",female,35,Southampton,,C-93,1
+1st,"Hoyt, Mr William F.",male,NA,Cherbourg,,,0
+1st,"Isham, Miss Anne Elizabeth",female,50,Cherbourg,,C-49,0
+1st,"Ismay, Mr Joseph Bruce",male,49,Southampton,112058 Complimentary,B-52/4/6,1
+1st,"Jones, Mr Charles Cresson",male,46,Southampton,,,0
+1st,"Julian, Mr Henry Forbes",male,NA,Southampton,,,0
+1st,"Kent, Mr Edward Austin",male,58,Cherbourg,,,0
+1st,"Kenyon, Mr Frederick R.",male,41,Southampton,,,0
+1st,"Kenyon, Mrs Frederick R. (Marion)",female,NA,Southampton,,,1
+1st,"Kimball, Mr Edwin Nelson Jr.",male,42,Southampton,,,1
+1st,"Kimball, Mrs Edwin Nelson Jr. (Gertrude Parsons)",female,40,Southampton,,,1
+1st,"Klaber, Mr Herman",male,NA,Southampton,,,0
+1st,"Leader, Dr Alice Farnham",female,NA,Southampton,,,1
+1st,"Lewy, Mr Ervin G.",male,NA,Cherbourg,,,0
+1st,"Lindeberg-Lind, Mr Erik Gustaf",male,42,Southampton,,,0
+1st,"Lindstrom, Mrs Carl Johan (Sigrid Posse)",female,55,Cherbourg,,,1
+1st,"Lines, Mrs Ernest H. (Elizabeth Lindsey James)",female,50,Cherbourg,,,1
+1st,"Lines, Miss Mary Conover",female,16,Cherbourg,,,1
+1st,"Lingrey, Mr Edward",male,NA,,,,0
+1st,"Long, Mr Milton Clyde",male,29,Southampton,,,0
+1st,"Longley, Miss Gretchen Fiske",female,21,Southampton,13502 L77,D-?,1
+1st,"Loring, Mr Joseph Holland",male,30,Southampton,,,0
+1st,"Madill, Miss Georgette Alexandra",female,15,Southampton,24160 L221,B-5,1
+1st,"Maguire, Mr John Edward",male,30,Southampton,,,0
+1st,"Marechal, Mr Pierre",male,NA,Cherbourg,,,1
+1st,"Marvin, Mr Daniel Warner",male,NA,Southampton,,,0
+1st,"Marvin, Mrs Daniel Warner (Mary Graham Carmichael Farquarson)",female,NA,Southampton,,,1
+1st,"McCaffry, Mr Thomas Francis",male,46,Cherbourg,,,0
+1st,"McCarthy, Mr Timothy J.",male,54,Southampton,,,0
+1st,"McGough, Mr James R.",male,36,Southampton,,,1
+1st,"Meyer, Mr Edgar Joseph",male,28,Cherbourg,,,0
+1st,"Meyer, Mrs Edgar Joseph (Leila Saks)",female,NA,Cherbourg,,,1
+1st,"Millet, Mr Francis Davis",male,65,Southampton,,,0
+1st,"Minahan, Miss Daisy E.",female,33,Queenstown,,,1
+1st,"Minahan, Dr William Edward",male,44,Queenstown,,,0
+1st,"Minahan, Mrs William Edward (Lillian E. Thorpe)",female,37,Queenstown,,,1
+1st,"Mock, Mr Philip E.",male,NA,Cherbourg,,,1
+1st,"Molson, Mr Harry Markland",male,55,Southampton,,,0
+1st,"Moore, Mr Clarence Bloomfield",male,47,Southampton,,,0
+1st,"Natsch, Mr Charles H.",male,36,Cherbourg,,,0
+1st,"Newell, Mr Arthur Webster",male,58,Cherbourg,,,0
+1st,"Newell, Miss Madeleine",female,31,Cherbourg,,,1
+1st,"Newell, Miss Marjorie",female,23,Cherbourg,,,1
+1st,"Newsom, Miss Helen Monypeny",female,19,Southampton,,,1
+1st,"Nicholson, Mr Arthur Ernest",male,64,Southampton,,,0
+1st,"Omont, Mr A. Fernand",male,NA,Cherbourg,,,1
+1st,"Ostby, Mr Engelhart Cornelius",male,64,Cherbourg,,,0
+1st,"Ostby, Miss Helen Raghnild",female,22,Cherbourg,,,1
+1st,"Ovies y Rodriguez, Mr Servando",male,28,,,,0
+1st,"Parr, Mr William Henry Marsh",male,NA,,,,0
+1st,"Partner, Mr Austin",male,NA,Southampton,,,0
+1st,"Payne, Mr Vivian Ponsonby",male,22,Southampton,,,0
+1st,"Pears, Mr Thomas",male,NA,Southampton,,,0
+1st,"Pears, Mrs Thomas (Edith)",female,NA,Southampton,,,1
+1st,"Penasco, Mr Victor de Satode",male,18,Cherbourg,,,0
+1st,"Penasco, Mrs Victor de Satode (Josefa de Soto)",female,17,Cherbourg,,,1
+1st,"Peuchen, Major Arthur Godfrey",male,52,Southampton,,C-104,1
+1st,"Porter, Mr Walter Chamberlain",male,46,Southampton,,,0
+1st,"Potter, Mrs Thomas, Jr. (Lily Alexenia Wilson)",female,56,Cherbourg,,,1
+1st,"Reuchlin, Jonkheer John George",male,NA,Southampton,,,0
+1st,"Rheims, Mr George Lucien",male,NA,Cherbourg,17604 L39 12s,,1
+1st,"Robert, Mrs Edward Scott (Elisabeth Walton McMillan)",female,43,Southampton,24160 L221,B-3,1
+1st,"Roebling, Mr Washington Augustus 2nd",male,31,Southampton,,,0
+1st,"Romaine, Mr Charles Hallace",male,NA,Southampton,,,1
+1st,"Rood, Mr Hugh R.",male,NA,Southampton,,,0
+1st,"Rosenbaum (Russell), Miss Edith Louise",female,33,Cherbourg,17613 L27 14s 5d,A-11,1
+1st,"Ross, Mr John Hugo",male,NA,Cherbourg,,,0
+1st,"Rothes, the Countess of (Noel Lucy Martha Dyer-Edwardes)",female,27,Southampton,,,1
+1st,"Rothschild, Mr Martin",male,55,Cherbourg,,,0
+1st,"Rothschild, Mrs Martin (Elizabeth L. Barrett)",female,54,Cherbourg,,,1
+1st,"Rowe, Mr Alfred G.",male,NA,Southampton,,,0
+1st,"Ryerson, Mr Arthur Larned",male,61,Cherbourg,17608 L262 7s 6d,,0
+1st,"Ryerson, Mrs Arthur Larned (Emily Maria Borie)",female,48,Cherbourg,17608 L262 7s 6d,,1
+1st,"Ryerson, Miss Emily Borie",female,18,Cherbourg,17608 L262 7s 6d,,1
+1st,"Ryerson, Master John Borie",male,13,Cherbourg,17608 L262 7s 6d,,1
+1st,"Ryerson, Miss Susan (Suzette) Parker",female,21,Cherbourg,17608 L262 7s 6d,,1
+1st,"Saalfeld, Mr Adolphe",male,NA,Southampton,,,1
+1st,"Salomon, Mr Abraham L.",male,NA,Southampton,,,1
+1st,"Schabert, Mrs Paul (Emma Mock)",female,NA,Cherbourg,,,1
+1st,"Seward, Mr Frederic Kimber",male,34,Southampton,,,1
+1st,"Shutes, Miss Elizabeth W.",female,40,Southampton,17582 L153 9s 3d,C-125,1
+1st,"Silverthorne, Mr Spencer Victor",male,36,Southampton,,,1
+1st,"Silvey, Mr William Baird",male,50,,,,0
+1st,"Silvey, Mrs William Baird (Alice Munger)",female,39,,,,1
+1st,"Simonius-Blumer, Col Alfons",male,56,,,,1
+1st,"Sloper, Mr William Thompson",male,28,Southampton,,,1
+1st,"Smart, Mr John Montgomery",male,56,Southampton,,,0
+1st,"Smith, Mr James Clinch",male,56,Cherbourg,,,0
+1st,"Smith, Mr Lucien Philip",male,24,Southampton,,,0
+1st,"Smith, Mrs Lucien Philip (Mary Eloise Hughes",female,18,Southampton,,,1
+1st,"Smith, Mr Richard William",male,NA,Southampton,,,0
+1st,"Snyder, Mr John Pillsbury",male,24,Southampton,,,1
+1st,"Snyder, Mrs John Pillsbury (Nelle Stevenson)",female,23,Southampton,,,1
+1st,"Spedden, Mr Frederick Oakley",male,45,Cherbourg,,,1
+1st,"Spedden, Mrs Frederick Oakley (Margaretta Corning Stone)",female,40,Cherbourg,,,1
+1st,"Spedden, Master Robert Douglas",male,6,Cherbourg,,,1
+1st,"Spencer, Mr William Augustus",male,57,Cherbourg,,,0
+1st,"Spencer, Mrs William Augustus (Marie Eugenie)",female,NA,Cherbourg,,,1
+1st,"Staehlin, Dr Max",male,32,Cherbourg,,,1
+1st,"Stead, Mr William Thomas",male,62,Southampton,,C-89,0
+1st,"Stengel, Mr Charles Emil Henry",male,54,Cherbourg,,,1
+1st,"Stengel, Mrs Charles Emil Henry (Annie May Morris)",female,43,Cherbourg,,,1
+1st,"Stephenson, Mrs Walter Bertram (Martha Eustis)",female,52,,,,1
+1st,"Stewart, Mr Albert A.",male,NA,Cherbourg,,,0
+1st,"Stone, Mrs George Nelson (Martha E.)",female,62,,,,1
+1st,"Straus, Mr Isidor",male,67,Southampton,17483 L221 15s 7d,,0
+1st,"Straus, Mrs Isidor (Ida Blun)",female,63,Southampton,17483 L221 15s 7d,,0
+1st,"Sutton, Mr Frederick",male,61,Southampton,,,0
+1st,"Swift, Mrs Frederick Joel (Margaret Welles Barron)",female,46,Southampton,,,1
+1st,"Taussig, Mr Emil",male,52,Southampton,,,0
+1st,"Taussig, Mrs Emil (Tillie Mandelbaum)",female,39,Southampton,,,1
+1st,"Taussig, Miss Ruth",female,18,Southampton,,,1
+1st,"Taylor, Mr Elmer Zebley",male,48,Southampton,,C-126,1
+1st,"Taylor, Mrs Elmer Zebley (Juliet Cummins Wright)",female,NA,Southampton,,C-126,1
+1st,"Thayer, Mr John Borland",male,49,Cherbourg,,,0
+1st,"Thayer, Mrs John Borland (Marian Longstreth Morris)",female,39,Cherbourg,,,1
+1st,"Thayer, Mr John Borland, jr.",male,17,Cherbourg,,,1
+1st,"Thorne, Mr George (alias of: Mr George Rosenshine)",male,46,Cherbourg,,,0
+1st,"Thorne, Mrs Gertrude Maybelle",female,NA,Cherbourg,,,1
+1st,"Tucker, Mr Gilbert Milligan, jr",male,31,Cherbourg,,,1
+1st,"Uruchurtu, Mr Manuel E.",male,NA,Cherbourg,,,0
+1st,"Van Derhoef, Mr Wyckoff",male,61,Southampton,,,0
+1st,"Walker, Mr William Anderson",male,47,Southampton,,,0
+1st,"Warren, Mr Frank Manley",male,64,Cherbourg,,,0
+1st,"Warren, Mrs Frank Manley (Anna S. Atkinson)",female,60,Cherbourg,,,1
+1st,"Weir, Col John",male,60,Southampton,,,0
+1st,"White, Mrs J. Stuart (Ella Holmes)",female,55,Cherbourg,,,1
+1st,"White, Mr Percival Wayland",male,54,Southampton,,,0
+1st,"White, Mr Richard Frasar",male,21,Southampton,,,0
+1st,"Wick, Mr George Dennick",male,57,Southampton,,,0
+1st,"Wick, Mrs George Dennick (Martha Hitchcock)",female,45,Southampton,,,1
+1st,"Wick, Miss Mary Natalie",female,31,Southampton,,C-7,1
+1st,"Widener, Mr George Dunton",male,50,Cherbourg,,,0
+1st,"Widener, Mrs George Dunton (Eleanor Elkins)",female,50,Cherbourg,,,1
+1st,"Widener, Mr Harry Elkins",male,27,Cherbourg,,,0
+1st,"Willard, Miss Constance",female,20,Southampton,,,1
+1st,"Williams, Mr Charles Duane",male,51,Cherbourg,,,0
+1st,"Williams, Mr Fletcher Lambert",male,NA,Southampton,,,0
+1st,"Williams, Mr Richard Norris II",male,21,Cherbourg,,,1
+1st,"Woolner, Mr Hugh",male,NA,Southampton,,,1
+1st,"Wright, Mr George",male,NA,Southampton,,,0
+1st,"Young, Miss Marie Grice",female,36,Cherbourg,,,1
+1st,"Barber, Ms ",female,NA,Southampton,,,1
+1st,"Bazzani, Ms Albina",female,NA,Cherbourg,,,1
+1st,"Bidois, Miss Rosalie",female,NA,Cherbourg,17754,,1
+1st,"Bird, Ms Ellen",female,NA,Southampton,17483,C-97,1
+1st,"Bissetti, Ms Amelia",female,NA,Cherbourg,,C-99,1
+1st,"Burns, Ms Elizabeth Margaret",female,NA,Cherbourg,,,1
+1st,"Chaudanson, Ms   Victorine",female,NA,Cherbourg,17608,,1
+1st,"Cleaver, Ms Alice",female,NA,Southampton,,C22,1
+1st,"Daniels, Ms Sarah",female,NA,Southampton,,C-22,1
+1st,"Endres, Miss Caroline Louise",female,NA,Cherbourg,17754 L224 10s 6d,C-45,1
+1st,"Farthing, Mr John",male,NA,Southampton,17483,C-55 (?C-95),0
+1st,"Fleming, Ms Margaret",female,NA,Cherbourg,,,0
+1st,"Francatelli, Ms Laura Mabel",female,NA,Cherbourg,17485,,1
+1st,"Fry, Mr Richard",male,NA,Southampton,112058,B-102,0
+1st,"Geiger, Miss Emily ",female,NA,Cherbourg,,,1
+1st,"Giglio, Mr Victor",male,NA,Cherbourg,17593,B-86,0
+1st,"Harrington, Mr Charles",male,NA,Southampton,,,0
+1st,"Harrison, Mr William     Henry",male,40,Southampton,112059,,0
+1st,"Hassah, Mr Hamad",male,NA,Cherbourg,,,0
+1st,"Icabad (Icabod), Ms",female,NA,,,,1
+1st,"Keeping, Mr Edwin",male,32,Cherbourg,,,0
+1st,"Kenchen, Ms Amelia",female,NA,Southampton,,,1
+1st,"LeRoy, Miss Berthe",female,NA,Cherbourg,,,1
+1st,"Lesneur, Mr Gustave",male,NA,Cherbourg,,B-?,0
+1st,"Maloney, Ms",female,NA,Southampton,,,1
+1st,"Oliva, Mlle",female,NA,Cherbourg,,,0
+1st,"Pericault, Ms",female,NA,Southampton,,,1
+1st,"Ringhini, Mr Sante",male,33,Cherbourg,,,0
+1st,"Robbins, Mr Victor",male,NA,Cherbourg,17754,C-62,0
+1st,"Segesser, Mlle. Emma",female,NA,Cherbourg,,,1
+1st,"Seredeca, Ms",female,NA,Southampton,,,0
+1st,"Ward, Ms Anna",female,NA,Cherbourg,,,0
+1st,"Wilson, Ms Helen",female,NA,Cherbourg,,,1
+2nd,"Abelson, Mr Samuel",male,30,Cherbourg,,,0
+2nd,"Abelson, Mrs Samuel (Anna)",female,28,Cherbourg,,,1
+2nd,"Andrew, Mr Edgar Samuel",male,18,Southampton,,,0
+2nd,"Andrew, Mr Frank",male,NA,Southampton,,,0
+2nd,"Angle, Mr William A.",male,34,Southampton,,,0
+2nd,"Angle, Mrs William A. (Florence)",female,32,Southampton,,,1
+2nd,"Ashby, Mr John",male,57,Southampton,,,0
+2nd,"Bailey, Mr Percy Andrew",male,18,Southampton,,,0
+2nd,"Baimbrigge, Mr Charles R.",male,23,Southampton,,,0
+2nd,"Balls, Mrs Ada E. Hall",female,36,Southampton,,,1
+2nd,"Banfield, Mr Frederick J.",male,28,Southampton,,,0
+2nd,"Bateman, Rev Robert James",male,51,Southampton,,,0
+2nd,"Beane, Mr Edward",male,32,Southampton,,,1
+2nd,"Beane, Mrs Edward (Ethel Clarke)",female,19,Southampton,,,1
+2nd,"Beauchamp, Mr Henry James",male,28,Southampton,,,0
+2nd,"Becker, Mrs Allen Oliver (Nellie E. Baumgardner)",female,36,Southampton,230136 L39,,1
+2nd,"Becker, Miss Marion Louise",female,4,Southampton,230136 L39,,1
+2nd,"Becker, Master Richard F.",male,1,Southampton,230136 L39,,1
+2nd,"Becker, Miss Ruth Elizabeth",female,12,Southampton,230136 L39,,1
+2nd,"Beesley, Mr Lawrence",male,34,Southampton,248698 L13,D-56,1
+2nd,"Bentham, Miss Lilian W.",female,19,Southampton,,,1
+2nd,"Berriman, Mr William S.",male,23,Southampton,,,0
+2nd,"Botsford, Mr William Hull",male,26,Southampton,,,0
+2nd,"Bowenur, Mr Solomon",male,NA,Southampton,,,0
+2nd,"Bracken, Mr James H.",male,27,Southampton,,,0
+2nd,"Brown, Miss Edith E.",female,15,Southampton,,,1
+2nd,"Brown, Mr Thomas William Solomon",male,45,Southampton,,,0
+2nd,"Brown, Mrs Thomas William Solomon (Elizabeth C.)",female,40,Southampton,,,1
+2nd,"Bryhl, Miss Dagmar",female,20,Southampton,,,1
+2nd,"Bryhl, Mr Kurt Arnold Gottfrid",male,25,Southampton,,,0
+2nd,"Buss, Miss Kate",female,36,Southampton,27849,E-?,1
+2nd,"Butler, Mr Reginald Fenton",male,25,Southampton,,,0
+2nd,"Byles, Rev. Thomas Roussel D.",male,NA,Southampton,,,0
+2nd,"Bystrom, Mrs Carolina",female,42,Southampton,,,1
+2nd,"Caldwell, Mr Albert Francis",male,26,Southampton,,,1
+2nd,"Caldwell, Mrs Albert Francis (Sylvia Mae Harbaugh)",female,26,Southampton,,,1
+2nd,"Caldwell, Master Alden Gates",male,0.8333,Southampton,,,1
+2nd,"Cameron, Miss Clear",female,31,Southampton,,,1
+2nd,"Campbell, Mr William",male,NA,,,,0
+2nd,"Carbines, Mr William",male,19,Southampton,,,0
+2nd,"Carter, Rev Ernest Courtenay",male,54,Southampton,,,0
+2nd,"Carter, Mrs Ernest Courtenay (Lillian Hughes)",female,44,Southampton,,,0
+2nd,"Chapman, Mr Charles Henry",male,52,Southampton,,,0
+2nd,"Chapman, Mr John Henry",male,30,Southampton,,,0
+2nd,"Chapman, Mrs John Henry (Elizabeth Lawry)",female,30,Southampton,,,0
+2nd,"Christy, Mrs Alice Frances",female,NA,Southampton,,,1
+2nd,"Christy, Miss Julie",female,NA,Southampton,,,1
+2nd,"Clarke, Mr Charles V.",male,29,Southampton,,,0
+2nd,"Clarke, Mrs Charles V. (Ada Maria)",female,NA,Southampton,,,1
+2nd,"Coleridge, Mr Reginald Charles",male,29,Southampton,,,0
+2nd,"Collander, Mr Erik",male,27,Southampton,,,0
+2nd,"Collett, Mr Sidney C. Stuart",male,24,Southampton,,,1
+2nd,"Collyer, Mr Harvey",male,35,Southampton,,,0
+2nd,"Collyer, Mrs Harvey (Charlotte Tate)",female,31,Southampton,,,1
+2nd,"Collyer, Miss Marjorie",female,8,Southampton,,,1
+2nd,"Cook, Mrs Selena Rogers",female,22,Southampton,,F-33,0
+2nd,"Corbett, Mrs Walter H. (Irene Colvin)",female,30,Southampton,,,0
+2nd,"Corey, Mrs Percy C. (Mary Phyllis Elizabeth Miller)",female,NA,Southampton,,,0
+2nd,"Cotterill, Mr Harry",male,20,Southampton,,,0
+2nd,"Cunningham, Mr Alfred Fleming",male,NA,,,,0
+2nd,"Davies, Mr Charles Henry",male,21,Southampton,,,0
+2nd,"Davis, Mrs Agnes",female,49,Southampton,,,1
+2nd,"Davis, Master John Morgan",male,8,Southampton,,,1
+2nd,"Davis, Miss Mary",female,28,Southampton,,,1
+2nd,"Deacon, Mr Percy",male,18,Southampton,,,0
+2nd,"de Brito, Mr Jose Joaquim",male,NA,,,,0
+2nd,"del Carlo, Mr Sebastiano",male,28,Cherbourg,,,0
+2nd,"del Carlo, Mrs Sebastiano (Argenia Genovese)",female,22,Cherbourg,,,1
+2nd,"Denbury, Mr Herbert",male,25,Southampton,,,0
+2nd,"Dibden, Mr William",male,18,Southampton,,,0
+2nd,"Doling, Mrs Ada",female,32,Southampton,,,1
+2nd,"Doling, Miss Elsie",female,18,Southampton,,,1
+2nd,"Downton (?Douton), Mr William James",male,NA,Southampton,,,0
+2nd,"Drew, Mr James Vivian",male,42,Southampton,28220 L32 10s,,0
+2nd,"Drew, Mrs James Vivian (Lulu Thorne Christian)",female,34,Southampton,28220 L32 10s,,1
+2nd,"Drew, Master Marshall Brines",male,8,Southampton,28220 L32 10s,,1
+2nd,"Duran y More, Miss Asuncion",female,NA,Cherbourg,,,1
+2nd,"Duran y More, Miss Florentina",female,NA,Cherbourg,,,1
+2nd,"Eitemiller, Mr George Floyd",male,23,Southampton,,,0
+2nd,"Enander, Mr Ingvar",male,21,Southampton,,,0
+2nd,"Fahlstrom, Mr Arne Jonas",male,19,Southampton,,,0
+2nd,"Faunthorpe, Mr Harry",male,NA,Southampton,,,0
+2nd,"Faunthorpe, Mrs Lizzie (see Wilkinson, E.)",female,NA,,,,1
+2nd,"Fillbrook, Mr Charles",male,NA,Southampton,,,0
+2nd,"Fox, Mr Stanley H.",male,38,Southampton,229236 L13,,0
+2nd,"Frost, Mr Anthony (Archie) W.",male,NA,,,,0
+2nd,"Funk, Miss Annie C.",female,38,Southampton,,,0
+2nd,"Fynney, Mr Joseph J.",male,35,Southampton,,,0
+2nd,"Gale, Mr Harry",male,35,Southampton,,,0
+2nd,"Gale, Mr Shadrach",male,38,Southampton,,,0
+2nd,"Garside, Miss Ethel",female,24,Southampton,,,1
+2nd,"Gaskell, Mr Alfred",male,16,Southampton,,,0
+2nd,"Gavey, Mr Lawrence",male,26,Southampton,,,0
+2nd,"Gilbert, Mr William",male,45,Southampton,,,0
+2nd,"Giles, Mr Edgar",male,24,Southampton,,,0
+2nd,"Giles, Mr Frederick",male,21,Southampton,,,0
+2nd,"Giles, Mr Ralph",male,22,Southampton,,,0
+2nd,"Gill, Mr John W.",male,NA,Southampton,,,0
+2nd,"Gillespie, Mr William",male,34,Southampton,,,0
+2nd,"Givard, Mr Hans Christensen",male,30,Southampton,,,0
+2nd,"Greenberg, Mr Samuel",male,50,Southampton,,,0
+2nd,"Hale, Mr Reginald",male,30,Southampton,,,0
+2nd,"Hamalainen, Mrs William (Anna)",female,23,Southampton,,,1
+2nd,"Hamalainen, Master Viljo",male,1,Southampton,,,1
+2nd,"Harbeck, Mr William H.",male,44,Southampton,248749 L13,,0
+2nd,"Harper, Rev John",male,28,Southampton,,,0
+2nd,"Harper, Miss Nina",female,6,Southampton,,,1
+2nd,"Harris, Mr George",male,30,Southampton,,,1
+2nd,"Harris, Mr Walter",male,NA,Southampton,,,0
+2nd,"Hart, Mr Benjamin",male,43,Southampton,13529 L26 5s,,0
+2nd,"Hart, Mrs Benjamin (Esther)",female,45,Southampton,13529 L26 5s,,1
+2nd,"Hart, Miss Eva Miriam",female,7,Southampton,13529 L26 5s,,1
+2nd,"Herman, Miss Alice",female,24,Southampton,,,1
+2nd,"Herman, Miss Kate",female,24,Southampton,,,1
+2nd,"Herman, Mr Samuel",male,49,Southampton,,,0
+2nd,"Herman, Mrs Samuel (Jane Laver)",female,48,Southampton,,,1
+2nd,"Hewlett, Mrs Mary D.",female,NA,Southampton,,,1
+2nd,"Hickman, Mr Leonard Mark",male,34,Southampton,,,0
+2nd,"Hickman, Mr Lewis",male,32,Southampton,,,0
+2nd,"Hickman, Mr Stanley George",male,21,Southampton,,,0
+2nd,"Hiltunen, Miss Marta",female,18,Southampton,,,0
+2nd,"Hocking, Mrs Elizabeth",female,53,Southampton,,,1
+2nd,"Hocking, Mr George",male,23,Southampton,,,0
+2nd,"Hocking, Miss Ellen (Nellie)",female,21,Southampton,,,1
+2nd,"Hocking, Mr Samuel James",male,NA,Southampton,,,0
+2nd,"Hodges, Mr Henry Price",male,52,Southampton,,,0
+2nd,"Hold, Mr Stephen",male,42,Southampton,,,0
+2nd,"Hold, Mrs Stephen (Annie Margaret)",female,36,Southampton,,,1
+2nd,"Hood, Mr Ambrose, Jr",male,21,Southampton,,,0
+2nd,"Hosono, Mr Masafumi",male,41,Southampton,,,1
+2nd,"Howard, Mr Benjamin",male,NA,Southampton,,,0
+2nd,"Howard, Mrs Benjamin (Ellen Truelove)",female,NA,Southampton,,,0
+2nd,"Hunt, Mr George Henry",male,33,Southampton,,,0
+2nd,"Ilett, Miss Bertha",female,17,Southampton,,,1
+2nd,Jacobsohn Mr Sidney Samuel,male,NA,Southampton,,,0
+2nd,"Jacobsohn, Mrs Sidney Samuel (Amy Frances Christy)",female,NA,Southampton,,,1
+2nd,"Jarvis, Mr John Denzil",male,NA,Southampton,,,0
+2nd,"Jefferys, Mr Clifford",male,NA,Southampton,,,0
+2nd,"Jefferys, Mr Ernest",male,NA,Southampton,,,0
+2nd,"Jenkin, Mr Stephen Curnow",male,NA,Southampton,,,0
+2nd,"Jerwan, Mrs Amin S. (Marie Thuillard)",female,23,Cherbourg,,,1
+2nd,"Kantor, Mr Sinai",male,34,Southampton,,,0
+2nd,"Kantor, Mrs Sinai (Miriam Sternim)",female,NA,Southampton,,,1
+2nd,"Karnes, Mrs J. Frank (Claire Bennett)",female,22,Southampton,,,0
+2nd,"Keane, Mr Daniel",male,NA,Queenstown,,,0
+2nd,"Keane, Miss Nora A.",female,NA,Queenstown,,E-101,1
+2nd,"Kelly, Mrs Florence (Fannie)",female,45,Southampton,,,1
+2nd,"Kirkland, Rev Charles Leonard",male,NA,Queenstown,,,0
+2nd,"Knight, Mr Robert",male,NA,,,,0
+2nd,"Kvillner, Mr Johan Henrik Johannesson",male,31,Southampton,,,0
+2nd,"Lahtinen, Rev William",male,30,Southampton,,,0
+2nd,"Lahtinen, Mrs William (Anna Sylvan)",female,26,Southampton,,,0
+2nd,"Lamb, Mr John James",male,NA,Queenstown,,,0
+2nd,"Lemore, Mrs Amelia",female,34,Southampton,,F-33,1
+2nd,"LaRoche, Mr Joseph",male,26,Cherbourg,,,0
+2nd,"LaRoche, Mrs Joseph (Juliet)",female,22,Cherbourg,,,1
+2nd,"LaRoche, Miss Louise",female,1,Cherbourg,,,1
+2nd,"LaRoche, Miss Simonne",female,3,Cherbourg,,,1
+2nd,"Lehmann, Miss Bertha",female,NA,Cherbourg,,,1
+2nd,"Leitch, Miss Jessie",female,NA,Southampton,,,1
+2nd,"Levy, Mr Rene Jacques",male,NA,Cherbourg,,,0
+2nd,"Leyson, Mr Robert William Norman",male,25,Southampton,,,0
+2nd,"Lingan, Mr John",male,NA,Queenstown,,,0
+2nd,"Louch, Mr Charles Alexander",male,48,Southampton,,,0
+2nd,"Louch, Mrs Charles Alexander (Alice Adelaide)",female,NA,Southampton,,,1
+2nd,"Mack, Mrs Mary",female,57,Southampton,,E77,0
+2nd,"Malachard, Mr Noel",male,NA,Cherbourg,,,0
+2nd,"Mallet, Mr Albert",male,NA,Cherbourg,,,0
+2nd,"Mallet, Mrs Albert (Antoinette)",female,NA,Cherbourg,,,1
+2nd,"Mallet, Master Andre",male,2,Cherbourg,,,1
+2nd,"Mangiavacchi, Mr Serafino Emilio",male,NA,Cherbourg,,,0
+2nd,"Mantvila, Rev Joseph",male,27,Southampton,,,0
+2nd,"Marshall, Mrs Kate Louise Phillips",female,19,Southampton,,,1
+2nd,"Matthews, Mr William John",male,30,Southampton,,,0
+2nd,"Maybery, Mr Frank H.",male,20,Southampton,,,0
+2nd,"McCrae, Mr Arthur Gordon",male,45,Southampton,,,0
+2nd,"McCrie, Mr James Matthew",male,NA,Southampton,,,0
+2nd,"McKane, Mr Peter D.",male,46,Southampton,,,0
+2nd,"Mellenger, Mrs Elizabeth Anne",female,41,Southampton,,,1
+2nd,"Mellenger, Miss Madeleine Violet",female,13,Southampton,,,1
+2nd,"Mellor, Mr William John",male,19,Southampton,,,1
+2nd,"Meyer, Mr August",male,30,Southampton,,,0
+2nd,"Milling, Mr Jacob Christian",male,48,Southampton,,,0
+2nd,"Mitchell, Mr Henry Michael",male,71,Southampton,,,0
+2nd,"Moraweck, Dr Ernest",male,54,Southampton,,,0
+2nd,"Morley, Mr William",male,NA,Southampton,,,0
+2nd,"Mudd, Mr Thomas C.",male,NA,Southampton,,,0
+2nd,"Myles, Mr Thomas Francis",male,64,Queenstown,,,0
+2nd,"Nasser (Nasrallah), Mr Nicholas",male,32,Cherbourg,,,0
+2nd,"Nasser (Nasrallah), Mrs Nicholas",female,18,Cherbourg,,,1
+2nd,"Navratil, Master Edmond Roger",male,2,Southampton,230080 L26,,1
+2nd,"Navratil, Mr Michel",male,32,Southampton,230080 L26,,0
+2nd,"Navratil, Master Michel M.",male,3,Southampton,230080 L26,,1
+2nd,"Nesson, Mr Israel",male,26,Southampton,,,0
+2nd,"Nicholls, Mr Joseph Charles",male,19,Southampton,,,0
+2nd,"Norman, Mr Robert Douglas",male,NA,Southampton,,,0
+2nd,"Nourney, Mr Alfred (aka Baron von Drachstedt)",male,20,Cherbourg,,D-38,1
+2nd,"Nye, Mrs Elizabeth Ramell",female,29,Southampton,,F-33,1
+2nd,"Otter, Mr Richard",male,39,Southampton,,,0
+2nd,"Oxenham, Mr Percy Thomas",male,22,Southampton,,,1
+2nd,"Padro y Manent, Mr Julian",male,NA,Cherbourg,,,1
+2nd,"Pain, Dr Alfred",male,24,Southampton,,,0
+2nd,"Pallas y Castello, Mr Emilio",male,NA,Cherbourg,,,1
+2nd,"Parker, Mr Clifford R.",male,28,Southampton,,,0
+2nd,"Parkes, Mr Francis (Frank)",male,NA,,,,0
+2nd,"Parrish, Mrs Lutie Davis",female,50,Southampton,,,1
+2nd,"Pengelly, Mr Frederick",male,20,Southampton,,,0
+2nd,"Peruschitz, Rev. Joseph M.",male,40,Southampton,,,0
+2nd,"Phillips, Miss Alice",female,42,Southampton,,,1
+2nd,"Phillips, Mr Robert",male,21,Southampton,,,0
+2nd,"Pinsky, Miss Rosa",female,32,Southampton,,,1
+2nd,"Ponesell, Mr Martin",male,34,Southampton,250647,,0
+2nd,"Portaluppi, Mr Emilio",male,NA,Cherbourg,,,1
+2nd,"Pulbaum, Mr Frank",male,NA,Cherbourg,,,0
+2nd,"Quick, Mrs Frederick C. (Jane Richards)",female,33,Southampton,,,1
+2nd,"Quick, Miss Phyllis May",female,2,Southampton,,,1
+2nd,"Quick, Miss Winifred Vera",female,8,Southampton,,,1
+2nd,"Reeves, Mr David",male,36,Southampton,,,0
+2nd,"Renouf, Mr Peter Henry",male,34,Southampton,,,0
+2nd,"Renouf, Mrs Peter Henry (Lillian Jefferys)",female,30,Southampton,,,1
+2nd,"Reynaldo, Mrs Encarnacion",female,28,Southampton,,,1
+2nd,"Richard, Mr Emil",male,23,Cherbourg,,,0
+2nd,"Richards, Master George Sidney",male,0.8333,Southampton,,,1
+2nd,"Richards, Mrs Sidney (Emily Hocking)",female,25,Southampton,,,1
+2nd,"Richards, Master William Rowe",male,3,Southampton,,,1
+2nd,"Ridsdale, Miss Lucy",female,50,Southampton,,,1
+2nd,"Rogers, Mr Harry",male,NA,Southampton,,,0
+2nd,"Rugg, Miss Emily",female,21,Southampton,,,1
+2nd,"Sedgwick, Mr Charles Frederick Waddington",male,NA,Southampton,,,0
+2nd,"Sharp, Mr Percival",male,NA,Southampton,,,0
+2nd,"Shelley, Mrs William (Imanita)",female,25,Southampton,,,1
+2nd,"Silven, Miss Lyyli",female,18,Southampton,,,1
+2nd,"Sincock, Miss Maude",female,20,Southampton,,,1
+2nd,"Siukonnen, Miss Anna",female,30,Southampton,,,1
+2nd,"Sjostedt, Mr Ernst Adolf",male,59,Southampton,,,0
+2nd,"Slayter, Miss Hilda Mary",female,30,Queenstown,,,1
+2nd,"Slemen, Mr Richard James",male,35,Southampton,,,0
+2nd,"Smith (Schmidt), Mr Augustus",male,22,Southampton,,,0
+2nd,"Smith, Miss Marion",female,NA,Southampton,,,1
+2nd,"Sobey, Mr Hayden",male,25,Southampton,,,0
+2nd,"Stanton, Mr Samuel Ward",male,41,Cherbourg,,,0
+2nd,"Stokes, Mr Philip Joseph",male,25,Southampton,,,0
+2nd,"Sweet, Mr George",male,14,Southampton,,,0
+2nd,"Toomey, Miss Ellen",female,50,Southampton,,,1
+2nd,"Troupiansky, Mr Moses Aaron",male,22,Southampton,,,0
+2nd,"Trout, Mrs William H. (Jessie L.)",female,NA,Southampton,,,1
+2nd,"Troutt, Miss Edwina Celia",female,27,Southampton,34218 L10 10s,E-101,1
+2nd,"Turpin, Mr William John",male,29,Southampton,,,0
+2nd,"Turpin, Mrs William John (Dorothy Anne Wonnacott)",female,27,Southampton,,,0
+2nd,"Veale, Mr James",male,30,Southampton,,,0
+2nd,"Waelens, Mr Achille",male,22,Southampton,,,0
+2nd,"Walcroft, Miss Nellie",female,35,Southampton,,,1
+2nd,"Ware, Mr John James",male,30,Southampton,,,0
+2nd,"Ware, Mrs John James (Florence Louise Long)",female,28,Southampton,,,1
+2nd,"Ware, Mr William J.",male,23,Southampton,,,0
+2nd,"Watson, Mr Ennis Hastings",male,NA,Southampton,,,0
+2nd,"Watt, Miss Bertha",female,12,Southampton,,,1
+2nd,"Watt, Mrs James (Bessie Inglis Milne)",female,40,Southampton,,,1
+2nd,"Webber, Miss Susan",female,36,Southampton,,E-101,1
+2nd,"Weisz, Mr Leopold",male,28,Southampton,,,0
+2nd,"Weisz, Mrs Leopold (Mathilde)",female,32,Southampton,,,1
+2nd,"Wells, Mrs Arthur H. (Addie Trevaskis)",female,29,Southampton,,,1
+2nd,"Wells, Miss Joan",female,4,Southampton,,,1
+2nd,"Wells, Master Ralph Lester",male,2,Southampton,,,1
+2nd,"West, Miss Barbara J.",female,NA,Southampton,,,1
+2nd,"West, Miss Constance Mirium",female,NA,Southampton,,,1
+2nd,"West, Mr Edwy Arthur",male,36,Southampton,,,0
+2nd,"West, Mrs Edwy Arthur (Ada Mary)",female,33,Southampton,,,1
+2nd,"Wheadon, Mr Edward",male,NA,Southampton,,,0
+2nd,"Wheeler, Mr Edwin",male,NA,Southampton,,,0
+2nd,"Wheeler, Mr Frederick",male,NA,,,,0
+2nd,"Wilhelms, Mr Charles",male,32,Southampton,,,1
+2nd,"Wilkinson, Mrs Elizabeth Anne",female,NA,Southampton,,,1
+2nd,"Williams, Mr Charles Eugene",male,NA,Southampton,,,1
+2nd,"Wright, Miss Marion",female,26,Southampton,,,1
+2nd,"Yrois, Miss Henriette",female,NA,Southampton,,,0
+2nd,"Aldworth, Mr Charles Augustus",male,30,Southampton,248744 L13,,0
+2nd,"Brown, Miss Mildred",female,24,Southampton,,F-33,1
+2nd,"Pernot, Mr Rene",male,NA,Cherbourg,L15 1s,2131,0
+2nd,"Swane, Mr George",male,18,Southampton,,F-?,0
+3rd,"Abbing, Mr Anthony",male,42,Southampton,,,0
+3rd,"Abbott, Master Eugene Joseph",male,13,Southampton,,,0
+3rd,"Abbott, Mr Rossmore Edward",male,16,Southampton,,,0
+3rd,"Abbott, Mrs Stanton (Rosa)",female,35,Southampton,,,1
+3rd,"Abelseth, Miss Anna Karen",female,16,Southampton,,,1
+3rd,"Abelseth, Mr Olaus",male,25,Southampton,,,1
+3rd,"Abraham, Mrs Joseph (Sophie Easu)",female,18,Cherbourg,,,1
+3rd,"Abrahamsson, Mr August",male,20,Southampton,,,1
+3rd,"Adahl, Mr Mauritz Nils Martin",male,30,Southampton,7076,,0
+3rd,"Adams, Mr John",male,26,Southampton,,,0
+3rd,"Ahlin, Mrs Johanna Persdotter",female,40,Southampton,,,0
+3rd,"Ahmed, Mr Ali",male,24,Southampton,,,0
+3rd,"Aijo-Nirva, Mr Isak",male,41,Southampton,,,0
+3rd,"Aks, Mrs Sam (Leah Rosen)",female,18,Southampton,392091,,1
+3rd,"Aks, Master Philip",male,0.8333,Southampton,392091,,1
+3rd,"Alexander, Mr William",male,23,Southampton,,,0
+3rd,"Alhomaki, Mr Ilmari Rudolf",male,20,Southampton,,,0
+3rd,"Ali, Mr William",male,25,Southampton,,,0
+3rd,"Allen, Mr William Henry",male,35,Southampton,,,0
+3rd,"Allum, Mr Owen George",male,17,Southampton,,,0
+3rd,"Andersen, Mr Albert Karvin",male,32,Southampton,,,0
+3rd,"Andersen, Mr Thor Olsvigen",male,20,Southampton,,,0
+3rd,"Andersson, Mr Anders Johan",male,39,Southampton,,,0
+3rd,"Andersson, Mrs Anders Johan (Alfrida K. Brogren)",female,39,Southampton,,,0
+3rd,"Andersson, Miss Ebba Iris",female,6,Southampton,,,0
+3rd,"Andersson, Miss Ellis Anna Maria",female,2,Southampton,,,0
+3rd,"Andersson, Miss Erna",female,17,Southampton,,,1
+3rd,"Andersson, Miss Ida Augusta Margareta",female,38,Southampton,,,0
+3rd,"Andersson, Miss Ingeborg Constancia",female,9,Southampton,,,0
+3rd,"Andersson, Mr Johan Samuel",male,26,Southampton,,,0
+3rd,"Andersson, Miss Sigrid Elizabeth",female,11,Southampton,,,0
+3rd,"Andersson, Master Sigvard Harald Elias",male,4,Southampton,,,0
+3rd,"Andreasson, Mr Paul Edvin",male,20,Southampton,,,0
+3rd,"Angheloff, Mr Minko",male,26,Southampton,,,0
+3rd,"Arnold, Mr Josef",male,25,Southampton,,,0
+3rd,"Arnold, Mrs Josef (Josephine Frank)",female,18,Southampton,,,0
+3rd,"Aronsson, Mr Ernst Axel Algot",male,24,Southampton,,,0
+3rd,"Asim, Mr Adola",male,35,Southampton,,,0
+3rd,"Asplund, Mr Carl Oscar Vilhelm Gustafsson",male,40,Southampton,,,0
+3rd,"Asplund, Mrs Carl Oscar (Selma Augusta Johansson)",female,38,Southampton,,,1
+3rd,"Asplund, Master Carl Edgar",male,5,Southampton,,,0
+3rd,"Asplund, Master Clarence Gustaf Hugo",male,9,Southampton,,,0
+3rd,"Aspland, Master Edvin Rojj Felix",male,3,Southampton,,,1
+3rd,"Asplund, Master Filip Oscar",male,13,Southampton,,,0
+3rd,"Asplund, Mr John Charles",male,23,Southampton,,,1
+3rd,"Asplund, Miss Lillian Gertrud",female,5,Southampton,,,1
+3rd,"Assaf, Mr Gerios",male,NA,Cherbourg,,,0
+3rd,"Assaf, Mrs Mariana",female,45,Cherbourg,,,1
+3rd,"Assam, Mr Ali",male,23,Southampton,,,0
+3rd,"Attalah, Miss Malaka",female,17,Cherbourg,,,0
+3rd,"Attala (Kalil), Mr Solomon",male,27,Cherbourg,,,0
+3rd,"Augustsson, Mr Albert",male,23,Southampton,,,0
+3rd,"Baccos, Mr Rafoul",male,20,Cherbourg,,,0
+3rd,"Backstrom, Mr Karl Alfred",male,32,Southampton,,,0
+3rd,"Backstrom, Mrs Karl Alfred (Maria Mathilda Gustafsson)",female,33,Southampton,,,1
+3rd,"Baclini, Miss Eugenie",female,3,Cherbourg,,,1
+3rd,"Baclini, Miss Helene",female,NA,Cherbourg,,,1
+3rd,"Baclini, Miss Maria",female,NA,Cherbourg,,,1
+3rd,"Baclini, Mrs Solomon (Latifa)",female,NA,Cherbourg,,,1
+3rd,"Badman, Miss Emily Louisa",female,18,Southampton,,,1
+3rd,"Badt, Mr Mohamed",male,40,Cherbourg,,,0
+3rd,"Balkic, Mr Cerin",male,26,Southampton,,,0
+3rd,"Banoura, Miss Ayout",female,15,Cherbourg,,,1
+3rd,"Barbara, Mrs Catherine",female,45,Cherbourg,,,0
+3rd,"Barbara, Miss Saude",female,18,Cherbourg,,,0
+3rd,"Barry, Miss Julia",female,27,Queenstown,,,0
+3rd,Barton Mr David,male,22,Southampton,,,0
+3rd,"Beavan, Mr William Thomas",male,19,Southampton,,,0
+3rd,"Bengtsson, Mr John Viktor",male,26,Southampton,,,0
+3rd,Berglund. Mr Karl Ivar Sven,male,22,Southampton,,,0
+3rd,"Betros, Mr Tannous",male,20,Cherbourg,,,0
+3rd,"Bing, Mr Lee",male,32,Southampton,,,1
+3rd,"Birkeland, Mr Hans",male,21,Southampton,,,0
+3rd,"Bjorklund, Ernst Herbert",male,18,Southampton,,,0
+3rd,"Bostandyeff, Mr Guentcho",male,26,Southampton,,,0
+3rd,"Boulos, Master Akar",male,6,Cherbourg,,,0
+3rd,"Boulos, Mr Hanna",male,NA,Cherbourg,,,0
+3rd,"Boulos, Mrs Joseph (Sultana)",female,NA,Cherbourg,,,0
+3rd,"Boulos, Miss Laura",female,9,Cherbourg,,,0
+3rd,"Bourke, Mr John",male,40,Queenstown,,,0
+3rd,"Bourke, Mrs John (Catherine)",female,32,Queenstown,,,0
+3rd,"Bourke, Miss Mary",female,NA,Queenstown,,,0
+3rd,"Bowen, Mr David",male,26,Southampton,,,0
+3rd,"Bradley, Miss Bridget Delia",female,18,Queenstown,,,1
+3rd,"Braf, Miss Elin Ester Maria",female,20,Southampton,,,0
+3rd,"Brahim, Mr Youssef",male,NA,Cherbourg,,,0
+3rd,"Braund, Mr Lewis Richard",male,29,Southampton,,,0
+3rd,"Braund, Mr Owen Harris",male,22,Southampton,,,0
+3rd,"Brobek, Mr Karl Rudolf",male,22,Southampton,,,0
+3rd,"Brocklebank, Mr William Alfred",male,35,Southampton,,,0
+3rd,"Buckley, Mr Daniel",male,21,Queenstown,,,1
+3rd,"Buckley, Miss Katherine",female,20,Queenstown,,,0
+3rd,"Burke, Mr Jeremiah",male,19,Queenstown,,,0
+3rd,"Burns, Miss Mary Delia",female,18,Queenstown,,,0
+3rd,"Cacic, Mr Grego",male,18,Southampton,,,0
+3rd,"Cacic, Mr Luka",male,38,Southampton,,,0
+3rd,"Cacic, Mr Manda",male,NA,Southampton,,,0
+3rd,"Cacic, Mr Maria",male,30,Southampton,,,0
+3rd,"Calic, Mr Peter",male,17,Southampton,,,0
+3rd,"Canavan, Miss Mary",female,21,Queenstown,,,0
+3rd,"Canavan, Mr Patrick",male,21,Queenstown,,,0
+3rd,"Cann, Mr Ernest",male,21,Southampton,,,0
+3rd,"Caram (Kareem), Mr Joseph",male,NA,Cherbourg,,,0
+3rd,"Caram (Kareem), Mrs Joseph (Maria Elias)",female,NA,Cherbourg,,,0
+3rd,"Carlsson, Mr Carl Robert",male,24,Southampton,,,0
+3rd,"Carlsson, Mr Frans Olof",male,33,Southampton,,,0
+3rd,"Carlsson, Mr Julius",male,33,Southampton,,,0
+3rd,"Carlsson, Mr August Sigfrid",male,28,Southampton,,,0
+3rd,"Carr, Miss Helen",female,16,Queenstown,,,1
+3rd,"Carr, Miss Jeannie",female,37,Queenstown,,,0
+3rd,"Carver, Mr Alfred John",male,28,Southampton,,,0
+3rd,"Cassem, Mr Nassef Belmenly",male,NA,Cherbourg,,,1
+3rd,"Celotti, Mr Francesco",male,24,Southampton,,,0
+3rd,"Chartens, Mr David",male,21,Southampton,,,0
+3rd,"Chebab, Mr Emir Farres",male,NA,Cherbourg,,,0
+3rd,"Chip, Mr Chang",male,32,Southampton,,,0
+3rd,"Christmann, Mr Emil",male,29,Southampton,,,0
+3rd,"Chronopoulos, Mr Apostolos",male,26,Cherbourg,,,0
+3rd,"Chronopoulos, Mr Demetrios",male,18,Cherbourg,,,0
+3rd,"Coelho, Mr Domingos Fernandes",male,20,Southampton,,,0
+3rd,"Cohen, Mr Gurshon (Gus)",male,19,Southampton,,,1
+3rd,"Colbert, Mr Patrick",male,24,Queenstown,,,0
+3rd,"Coleff, Mr Fotio",male,24,Southampton,,,0
+3rd,"Coleff, Mr Peyo",male,36,Southampton,,,0
+3rd,"Conlin, Mr Thomas Henry",male,31,Queenstown,,,0
+3rd,"Connaghton, Mr Michael",male,31,Queenstown,,,0
+3rd,"Connolly, Miss Kate",female,30,Queenstown,,,0
+3rd,"Connolly, Miss Kate",female,22,Queenstown,,,1
+3rd,"Connors, Mr Patrick",male,NA,Queenstown,,,0
+3rd,"Cook, Mr Jacob",male,43,Southampton,,,0
+3rd,"Cor, Mr Bartol",male,35,Southampton,,,0
+3rd,"Cor, Mr Ivan",male,27,Southampton,,,0
+3rd,"Cor, Mr Ludovik",male,19,Southampton,,,0
+3rd,"Corn, Mr Harry",male,30,Southampton,,,0
+3rd,"Coutts, Mrs William (Minnie)",female,36,Southampton,,,1
+3rd,"Coutts, Master Neville",male,3,Southampton,,,1
+3rd,"Coutts, Master William Leslie",male,9,Southampton,,,1
+3rd,"Coxon, Mr Daniel",male,59,Southampton,,,0
+3rd,"Crease, Mr Ernest James",male,19,Southampton,,,0
+3rd,"Cribb, Mr John Hatfield",male,44,Southampton,,,0
+3rd,"Cribb, Miss Laura Alice",female,17,Southampton,,,1
+3rd,"Daher, Mr Tannous",male,NA,Cherbourg,,,0
+3rd,"Dahl, Mr Charles Edward",male,45,Southampton,,,1
+3rd,"Dahlberg, Miss Gerda Ulrika",female,22,Southampton,,,0
+3rd,"Dakic, Mr Branko",male,19,Southampton,,,0
+3rd,"Daly, Mr Eugene",male,29,Queenstown,,,1
+3rd,"Daly, Miss Marcella",female,30,Queenstown,,,1
+3rd,"Danbom, Mr Ernst Gilbert",male,34,Southampton,,,0
+3rd,"Danbom, Mrs Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,Southampton,,,0
+3rd,"Danbom, Master Gilbert Sigvard Emanuel",male,0.3333,Southampton,,,0
+3rd,"Danoff, Mr Yoto",male,27,Southampton,,,0
+3rd,"Dantchoff, Mr Khristo",male,25,Southampton,,,0
+3rd,"Davies, Mr Alfred",male,24,Southampton,,,0
+3rd,"Davies, Mr Evan",male,22,Southampton,,,0
+3rd,"Davies, Mr John",male,21,Southampton,,,0
+3rd,"Davies, Mr Joseph",male,17,Southampton,,,0
+3rd,"Davison, Mr Thomas Henry",male,NA,Southampton,,,0
+3rd,"Davison, Mrs Thomas Henry (Mary Finck)",female,NA,Southampton,,,1
+3rd,"Dean, Mr Bertram",male,26,Southampton,,,0
+3rd,"Dean, Mrs Bertram (Eva)",female,33,Southampton,,,1
+3rd,"Dean, Master Bertram Vere",male,1,Southampton,,,1
+3rd,"Dean, Miss Elizabeth Gladys (Millvena)",female,0.1667,Southampton,,,1
+3rd,"Delalic, Mr Regyo",male,25,Southampton,,,0
+3rd,"De Messemaeker, Mr William Joseph",male,36,Southampton,,,1
+3rd,"De Messemaeker, Mrs William Joseph (Anna)",female,36,Southampton,,,1
+3rd,"De Mulder, Mr Theo",male,30,Southampton,,,1
+3rd,"Denkoff, Mr Mito",male,NA,Southampton,,,0
+3rd,"Dennis, Mr Samuel",male,23,Southampton,,,0
+3rd,"Dennis, Mr William",male,26,Southampton,,,0
+3rd,"Devaney, Miss Margaret",female,19,Queenstown,,,1
+3rd,"Dewan, Mr Frank",male,65,Queenstown,,,0
+3rd,"Dibo, Mr Elias",male,NA,Cherbourg,,,0
+3rd,"Dimic, Mr Jovan",male,42,Southampton,,,0
+3rd,"Dintcheff, Mr Valtcho",male,43,Southampton,,,0
+3rd,"Dooley, Mr Patrick",male,32,Queenstown,,,0
+3rd,"Dorkings, Mr Edward Arthur",male,19,Southampton,,,1
+3rd,"Dowdell, Miss Elizabeth",female,30,Southampton,,,1
+3rd,"Doyle, Miss Elizabeth",female,24,Queenstown,,,0
+3rd,"Drapkin, Miss Jennie",female,23,Southampton,,,1
+3rd,"Drazonovic, Mr Josef",male,NA,Cherbourg,,,0
+3rd,"Driscoll, Miss Bridget",female,24,Queenstown,,,1
+3rd,"Duquemin, Mr Joseph",male,24,Southampton,,,1
+3rd,"Dyker, Mr Adolf Fredrik",male,23,Southampton,,,0
+3rd,"Dyker, Mrs Adolf Fredrik (Anna Elizabeth Judith Andersson)",female,22,Southampton,,,1
+3rd,"Econovic, Mr Joso",male,NA,Southampton,,,0
+3rd,"Edvardsson, Mr Gustaf Hjalmar",male,18,Southampton,,,0
+3rd,"Eklund, Mr Hans Linus",male,16,Southampton,,,0
+3rd,"Ekstrom, Mr Johan",male,45,Southampton,,,0
+3rd,"Elias, Mr Elias",male,NA,Cherbourg,,,0
+3rd,"Elias, Mr John",male,NA,Cherbourg,,,0
+3rd,"Elias, Mr Joseph",male,NA,Cherbourg,,,0
+3rd,"Elsbury, Mr James",male,47,Southampton,,,0
+3rd,"Emanuel, Miss Virginia Ethel",female,5,Southampton,,,1
+3rd,"Emmeth, Mr Thomas",male,NA,Southampton,,,0
+3rd,"Everett, Thomas James",male,NA,Southampton,,,0
+3rd,"Farrell, Mr James",male,NA,Queenstown,,,0
+3rd,"Finoli, Mr Luigi",male,NA,Southampton,,,1
+3rd,"Fischer, Mr Eberhard Telander",male,NA,Southampton,,,0
+3rd,"Flynn, Mr James",male,NA,Queenstown,,,0
+3rd,"Flynn, Mr John",male,NA,Queenstown,,,0
+3rd,"Foley, Mr Joseph",male,NA,Queenstown,,,0
+3rd,"Foley, Mr William",male,NA,Queenstown,,,0
+3rd,"Foo, Mr Choong",male,NA,Southampton,,,1
+3rd,"Ford, Mr Arthur",male,NA,Southampton,,,0
+3rd,"Ford, Miss Doolina Margaret",female,21,Southampton,,,0
+3rd,"Ford, Mr Edward Watson",male,18,Southampton,,,0
+3rd,"Ford, Miss Maggie",female,9,Southampton,,,0
+3rd,"Ford, Mrs Edward (Margaret Ann)",female,48,Southampton,,,0
+3rd,"Ford, Mr Neil Watson",male,16,Southampton,,,0
+3rd,"Fox, Mr Patrick",male,NA,Queenstown,,,0
+3rd,"Franklin, Mr Charles",male,NA,Southampton,,,0
+3rd,"Gallagher, Mr Martin",male,25,Queenstown,,,0
+3rd,"Garfirth, Mr John",male,NA,Southampton,,,0
+3rd,"Georges, Mrs Shahini Weappi",female,NA,Cherbourg,,,1
+3rd,"Gilinski, Mr Leslie",male,22,Southampton,,,0
+3rd,"Gilnagh, Miss Katie",female,16,Queenstown,,,1
+3rd,"Glynn, Miss Mary Agatha",female,NA,Queenstown,,,1
+3rd,"Goldsmith, Mr Frank John",male,33,Southampton,,,0
+3rd,"Goldsmith, Mrs Frank John (Emily A. Brown)",female,NA,Southampton,,,1
+3rd,"Goldsmith, Master Frank John William",male,9,Southampton,,,1
+3rd,"Goldsmith, Mr Nathan",male,41,Southampton,,,0
+3rd,"Goncalves, Mr Manuel Estanslas",male,38,Southampton,,,0
+3rd,"Goodwin, Mr Frederick",male,40,Southampton,,,0
+3rd,"Goodwin, Mrs Frederick (Augusta)",female,43,Southampton,,,0
+3rd,"Goodwin, Mr Charles E.",male,14,Southampton,,,0
+3rd,"Goodwin, Miss Lillian A.",female,16,Southampton,,,0
+3rd,"Goodwin, Master Harold V.",male,9,Southampton,,,0
+3rd,"Goodwin, Miss Jessie A.",female,10,Southampton,,,0
+3rd,"Goodwin, Master Sidney L.",male,6,Southampton,,,0
+3rd,"Goodwin, Master William F.",male,11,Southampton,,,0
+3rd,"Green, Mr George",male,40,Southampton,,,0
+3rd,"Gronnestad, Mr Daniel Danielsen",male,32,Southampton,,,0
+3rd,"Guest, Mr Robert",male,NA,Southampton,,,0
+3rd,"Gustafsson, Mr Alfred Ossian",male,20,Southampton,,,0
+3rd,"Gustafsson, Mr Anders Vilhelm",male,37,Southampton,,,0
+3rd,"Gustafsson, Mr Johan Birger",male,28,Southampton,,,0
+3rd,"Gustafsson, Mr Karl Gideon",male,19,Southampton,,,0
